@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-personal-portfolio-website/static/css/main.76f1a70c.css",
+    "main.js": "/my-personal-portfolio-website/static/js/main.179a7d7f.js",
+    "static/media/gradpic.png": "/my-personal-portfolio-website/static/media/gradpic.e4a1d6d980ca0b183ca6.png",
+    "static/media/aesthetic.jpg": "/my-personal-portfolio-website/static/media/aesthetic.7d6d3fcbd5627ea02cf9.jpg",
+    "static/media/Resume-Arris-Peralta.pdf": "/my-personal-portfolio-website/static/media/Resume-Arris-Peralta.20e85cd94f905a36c945.pdf",
+    "static/media/work2.png": "/my-personal-portfolio-website/static/media/work2.411ccef5559238446407.png",
+    "static/media/logo1.png": "/my-personal-portfolio-website/static/media/logo1.7db6f3e2b88a72ecb79b.png",
+    "index.html": "/my-personal-portfolio-website/index.html",
+    "main.76f1a70c.css.map": "/my-personal-portfolio-website/static/css/main.76f1a70c.css.map",
+    "main.179a7d7f.js.map": "/my-personal-portfolio-website/static/js/main.179a7d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f1a70c.css",
+    "static/js/main.179a7d7f.js"
+  ]
+}
