@@ -25,15 +25,14 @@ const Projects = () => {
                                 </div>
                                 {/* Hover options */}
                                 <div className='pt-8 text-center'>
-                                    <a href="https://react-todolistapp.vercel.app/">
+                                    <a href="https://yanzpdev-todo.vercel.app/" target='_blank'>
                                         <button className='hover:scale-125 duration-300 text-center rounded-lg px-4 py-3 m-2 bg-red-600 text-white font-bold'>Demo</button>
                                     </a>
-                                    <a href="https://github.com/yanzpdev/react-todolistapp">
+                                    <a href="https://github.com/yanzpdev/react-todo-list-app" target='_blank'>
                                         <button className='hover:scale-125 duration-300 text-center rounded-lg px-4 py-3 m-2 bg-red-600 text-white font-bold'>Code</button>
                                     </a>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
