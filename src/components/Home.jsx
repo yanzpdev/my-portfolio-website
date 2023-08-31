@@ -20,7 +20,7 @@ const Home = () => {
         <div className='flex flex-col justify-center items-center w-full h-full text-black'>
             <div className='flex flex-col items-center'>
                 <img className="w-56 h-56 lg:mt-16 sm:mt-16 xs:mt-16 xs1:mt-16" src={gradPic} alt="Grad Pic"></img>
-                <p className='text-2xl mb-2 ml-5 mt-10 text-center'>Howdy! 👋 I'm Arris and I am a <span className='text-3xl font-bold'>Front-end Developer</span> based in Cebu, Philippines. <a href='https://www.google.com/maps/@10.3403351,123.9130046,12.56z?entry=ttu' target='_blank'>📍</a></p>
+                <p className='text-2xl mb-2 ml-5 mt-10 text-center'>Howdy! 👋 I'm Arris and I am an aspiring <span className='text-3xl font-bold'>Front-end Developer</span> based in Cebu, Philippines. <a href='https://www.google.com/maps/@10.3403351,123.9130046,12.56z?entry=ttu' target='_blank'>📍</a></p>
             </div>
             <div className='max-w-[1000px] w-full px-4 gap-8'>
                 <div className='pb-10 pl-4 lg:text-left md:text-left sm:text-left xs:text-left xs1:text-left xxs:text-left lg:mt-10 md1:mt-10 md:mt-10 sm:mt-5 xs-mt-10 xs1:mt-10'>
