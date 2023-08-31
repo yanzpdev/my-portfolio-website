@@ -9,7 +9,7 @@ const Contact = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-500'>Contact</p>
                 <p className='py-6 text-slate-700 font-bold'>Get in touch with me, hit me up!</p>
-                <div className='flex items-center text-slate-700 font-bold'>
+                <div className='flex lg:flex-row md1:flex-row md:flex-row sm:flex-row xs1:flex-col xxs:flex-col lg:items-center md1:items-center md:items-center sm:items-center xs1:items-start xxs:items-start gap-3 text-slate-700 font-bold'>
                     <div className='flex items-center w-1/2 hover:scale-125 transition duration-500'>
                         <p className='px-2'><FaMobileAlt size={30}/> </p>
                         <p className='px-2 font-sans'> +639762044018 </p>
@@ -17,7 +17,7 @@ const Contact = () => {
 
                     <div className='flex items-center w-1/2 hover:scale-125 transition duration-500 text-slate-700 font-bold'>
                         <p className='px-2'><AiOutlineMail size={30}/> </p>
-                        <a href='mailto:peraltaarris07@gmail.com' className='px-2 '> peraltaarris07@gmail.com </a>
+                        <a href='mailto:peraltaarris07@gmail.com' className='px-2'> peraltaarris07@gmail.com </a>
                     </div>
                 </div>
             </div>
