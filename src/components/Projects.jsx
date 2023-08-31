@@ -37,31 +37,6 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div className='shadow-sm shadow-[#444444] h-[62.5rem] group container rounded-md flex justify-center items-center mx-auto content-div mt-3'>
-                    <div className='kanit drop-shadow-lg text-center flex'>
-                        <div className='grid grid-cols-2 gap-2 justify-center px-5'>
-                        {/* <img className="rounded-lg" src={work2} alt="Aesthetic image" style={{width: 400, height: 200}}></img> */}
-                        <h1>Coming soon!</h1>
-                            <div className='max-w-[400px] flex flex-col items-center'>
-                                <span className='text-2xl font-bold tracking-wider'>
-                                    Shoppaholic
-                                </span>
-                                <div className='p-2 text-sm'>
-                                    An E-commerce app that focuses on a simple and clean interface that prioritizes user experience.
-                                </div>
-                                {/* Hover options */}
-                                <div className='pt-8 text-center'>
-                                    <a href="https://react-todolistapp.vercel.app/">
-                                        <button className='hover:scale-125 duration-300 text-center rounded-lg px-4 py-3 m-2 bg-red-600 text-white font-bold'>Demo</button>
-                                    </a>
-                                    <a href="/">
-                                        <button className='hover:scale-125 duration-300 text-center rounded-lg px-4 py-3 m-2 bg-red-600 text-white font-bold'>Code</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
