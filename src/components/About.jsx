@@ -18,12 +18,11 @@ const About = () => {
                         I completed my Bachelor of Science in Information Technology 
                         (BSIT) degree 🎓 at Eastern Visayas State University Main Campus - 
                         Tacloban City, Leyte in July 2022. As an aspiring Front-end developer, I have knowledge
-                        and experience in HTML, CSS, JavaScript, PHP, React, and Tailwind, 
+                        and experience in HTML, CSS, JavaScript, PHP, React, and Tailwind.  
                         I specialize in creating responsive websites that prioritize user 
-                        experience. I excel in crafting dynamic interfaces through clean, optimized code and 
-                        modern development techniques. I am a collaborative team player, I thrive 
-                        in cross-functional environments, working together to deliver exceptional 
-                        web applications. In the future, I am also dedicated in aiming to be a full-stack 
+                        experience. I excel in crafting dynamic interfaces through clean and optimized code and applying 
+                        modern development techniques. I am a collaborative team player and work together with the team to deliver exceptional 
+                        web applications. I am also dedicated in aiming to be a full-stack 
                         developer in the future through dedication, hardwork, and love for my craft. 💻⚙️
                     </p>
                 </div>
